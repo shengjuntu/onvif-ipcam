@@ -1,0 +1,7 @@
+wsdl2h -o onvif.h -c -s -t typemap.dat \
+./webservice/ver10/device/wsdl/devicemgmt.wsdl \
+./webservice/ver10/media/wsdl/media.wsdl \
+./webservice/ver20/imaging/wsdl/imaging.wsdl \
+./webservice/ver10/events/wsdl/event.wsdl \
+./webservice/ver10/deviceio.wsdl
+

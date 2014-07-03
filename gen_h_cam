@@ -1,0 +1,4 @@
+wsdl2h -o onvif.h -c -s -t typemap.dat \
+http://www.onvif.org/onvif/ver10/device/wsdl/devicemgmt.wsdl \
+http://www.onvif.org/onvif/ver10/media/wsdl/media.wsdl 
+

@@ -1,0 +1,1 @@
+soapcpp2 -c -2  -L -x -T  onvif.h  -I/home/tushengjun/devel/gSoap/gsoap-2.8/gsoap/import:/home/tushengjun/devel/gSoap/gsoap-2.8/gsoap:.
